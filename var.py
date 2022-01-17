@@ -1,0 +1,25 @@
+CLIENT_SECRET_FILE = 'client_secret.json'
+API_NAME = 'drive'
+API_VERSION = 'v3'
+SCOPES =  ['https://www.googleapis.com/auth/drive']
+file_ids = ['19aZ4IilPhnYE2dZDkEOtsC09bkR7dsys', '1Igpg3sOR1N_Z02_ZZUib-vJVJBHGtBP5']
+file_names = ["photo-1.jpg", 'photo-2.jpeg']
+download_location= '.\RandomFile'
+invalid_file_id =['abc']
+single_file_id = ['19aZ4IilPhnYE2dZDkEOtsC09bkR7dsys']
+single_file_name = ['single.jpg']
+download_location1 = 'RandomFile'
+differnt_file_type_ids =['0B9MYe9ESDlCgT2N6dzVlY3FHdlNsRXBDR3FJUWFMYnNEME53','1fqqkPRVydRC3B3uUcWbzqMEjR2Ls81Wp']
+differnt_file_type_names = ['test.pdf', 'test.mov']
+not_binary_content_file_id =['1o1UIAWl9qVw0B2n5EF7oeLOCfrdbOgjycioUklFVMUc']
+large_file_size_id = ['1H58RB3WvLJcRDIR7UDF8WQurvY021Sh9']
+large_file_name =['large.mov']
+other_google_account_file_id = ['1V7jShPn0u7oMdYEjHNxwxuj9KjJodUfc']
+other_google_account_file_name = ['others.jpg']
+folder_file_id = ['0B9MYe9ESDlCgaFVKRmRVMzNyVkE']
+folder_name = ['floder']
+test_id =['1NaTm4MZSJrugAAme6_ug1Qi9xq8rW8Sl']
+test_name = ['abc.txt']
+file_id_another_extension =['1NaTm4MZSJrugAAme6_ug1Qi9xq8rW8Sl']
+file_name_another_extension = ['abc.txt']
+
